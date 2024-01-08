@@ -54,9 +54,9 @@ Windows 构建 Wails 应用程序时对 Microsoft WebView2 运行时有要求。
 
 ### 感谢 
 
-https://wails.io/
-https://www.naiveui.com/
-https://github.com/yhy0/ChYing
+https://wails.io/  
+https://www.naiveui.com/  
+https://github.com/yhy0/ChYing  
 https://github.com/prometheus-community/pro-bing
 
 
