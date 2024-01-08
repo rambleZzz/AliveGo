@@ -31,9 +31,10 @@ Windows 构建 Wails 应用程序时对 Microsoft WebView2 运行时有要求。
 
 
 
-````
+
 #### 运行截图
-、、、
+
+
 
 ![ag1.png](https://github.com/rambleZzz/AliveGO/blob/main/images/ag1.jpg)   
 
